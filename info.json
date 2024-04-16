@@ -1,0 +1,13 @@
+{
+	"name": "mt_factorio_testing",
+	"version": "0.0.1",
+	"title": "testing metatables in factorio",
+	"author": "hidden-relic",
+	"contact": "",
+	"factorio_version": "1.1",
+	"description": "",
+	"homepage": "https://discord.gg/wuWcgcy5",
+	"dependencies": [
+		"base >= 1.1"
+	]
+}
